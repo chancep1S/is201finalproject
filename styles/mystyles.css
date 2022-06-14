@@ -107,42 +107,42 @@ text-align: center;
 
 
 .ftPosi {
-    bottom: 10px;
+    bottom: 5px;
     left:10px;
     right:10px;
     height:60px;
 }
 
 .tab1 {
-    width: 400px;
+    width: 750px;
     text-align: center;
-    left: 250px;
-    right: 250px;
-    top: 50px;
+    left: 40px;
+    right: 50px;
+    top: 200px;
 }
 
 .tab2 {
-    width: 400px;
+    width: 750px;
     text-align: center;
-    left: 450px;
+    left: 800px;
     right: 50px;
-    top: 50px;
+    top: 200px;
 }
 
 .tab3 {
-    width: 800px;
+    width: 750px;
     text-align: center;
-    left: 450px;
-    right: 50px;
-    top: 50px;
+    left: 750px;
+    right: 10px;
+    top: 800px;
 }
 
 .tab4 {
-    width: 800px;
+    width: 650px;
     text-align: center;
-    left: 450px;
+    left: 30px;
     right: 50px;
-    top: 50px;
+    top: 800px;
 }
 
 
