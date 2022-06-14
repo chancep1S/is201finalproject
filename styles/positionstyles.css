@@ -1,0 +1,41 @@
+.posi {
+    position: absolute;
+    border: 5px  ;
+    padding: 5px;
+    
+}
+
+.link {
+    
+    left: 250px;
+    right: 250px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.link:hover {
+    color: white;
+}
+
+.video {   
+position: absolute;
+text-align: center;
+    right: 250px;
+    left: 250px;
+     
+ }
+
+ .surf {
+     
+     right: 950px;
+     left: 50px;
+     bottom: 300px;
+ }
+    
+ .hiking {
+
+     left: 1300px;
+     right: 50px;
+     bottom: 300px;
+ }

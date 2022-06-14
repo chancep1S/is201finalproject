@@ -1,1 +1,40 @@
 body {background-color: aqua;}
+
+
+
+.pos {
+    position: absolute;
+    padding: 5px;
+    border: 5px;
+}
+
+.home { 
+    
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    left: 250px;
+    top: 300px;
+    right: 250px;
+    font-style: italic;
+}
+
+.subhome {
+    
+    text-align: center;
+    color: white; 
+    font-family: cursive;
+    top: 400px;
+    left: 250px;
+    right: 250px;
+    text-decoration: underline;
+}
+
+.metalist {
+    text-align: center;
+    color: navy;
+    font-family:'Times New Roman', Times, serif;
+    left: 250px;
+    right: 250px;
+    
+}
